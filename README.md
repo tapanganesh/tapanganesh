@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 🗃️ Strong understanding of databases, APIs, and serverless architectures<br>
 📚 Always learning and exploring new technologies<br>
 💡 Loves participating in hackathons and coding challenges<br>
-🤝 Let's build something great together!
+🤝 Let's build something great together!<br>
 📫 How to reach me: tapanganesh.naram@gmail.com
