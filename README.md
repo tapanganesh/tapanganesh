@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Naram Tapan Ganesh (tapanganesh)
 
 <!--
 **tapanganesh/tapanganesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+👨‍💻 Passionate full-stack developer<br>
+💻 Building scalable web applications using modern technologies<br>
+🔧 Designing and developing robust backend systems<br>
+🎨 Creating intuitive user interfaces<br>
+🌐 Proficient in a wide range of programming languages including JavaScript, Python, and Java<br>
+🗃️ Strong understanding of databases, APIs, and serverless architectures<br>
+📚 Always learning and exploring new technologies<br>
+💡 Loves participating in hackathons and coding challenges<br>
+🤝 Let's build something great together!
+📫 How to reach me: tapanganesh.naram@gmail.com
