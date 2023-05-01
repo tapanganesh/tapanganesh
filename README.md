@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 🔧 Designing and developing robust backend systems<br>
 🎨 Creating intuitive user interfaces<br>
 🌐 Proficient in a wide range of programming languages including JavaScript, Python, and Java<br>
-🗃️ Strong understanding of databases, APIs, and serverless architectures<br>
+🗃️ Strong understanding of databases, APIs<br>
 📚 Always learning and exploring new technologies<br>
 💡 Loves participating in hackathons and coding challenges<br>
 🤝 Let's build something great together!<br>
